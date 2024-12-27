@@ -1,0 +1,13 @@
+.contact-section {
+  box-sizing: border-box;
+  max-width: 1382px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 71px;
+}
+.main-heading-text-style {
+  padding: 0;
+  margin: 0;
+  font: 700 64px/70px Montserrat, sans-serif;
+  color: #282828;
+}

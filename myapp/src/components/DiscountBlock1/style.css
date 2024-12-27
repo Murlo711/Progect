@@ -1,0 +1,22 @@
+.percentage-discount-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 16px 16px 234px;
+  background: url("/assets/image_bd72aa7e.png") 50% / cover no-repeat;
+  border-bottom: 1px solid #dddddd;
+}
+.discount-badge1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 600 20px Montserrat, sans-serif;
+  color: white;
+  letter-spacing: 0.6px;
+  background: #339933;
+  border-radius: 6px;
+}

@@ -1,0 +1,27 @@
+.garden-product-listing {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 40px;
+}
+.product-card-container1 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-right: 21px;
+}
+.garden-product-grid {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-right: 21px;
+  margin-top: 32px;
+}

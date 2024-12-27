@@ -1,0 +1,13 @@
+.vertical-spacer {
+  margin-top: 32px;
+}
+.image-container {
+  box-sizing: border-box;
+  display: block;
+  width: 1360px;
+  max-width: initial;
+  height: 350px;
+  border: none;
+  border-radius: 12px;
+  object-fit: cover;
+}

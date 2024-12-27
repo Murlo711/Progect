@@ -1,0 +1,10 @@
+.product-card-with-discount {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  border: 1px solid #dddddd;
+  border-radius: 12px;
+}

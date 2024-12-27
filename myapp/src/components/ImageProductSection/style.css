@@ -1,0 +1,16 @@
+.product-card1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 316px;
+  border: 1px solid #dddddd;
+  border-radius: 12px;
+}
+.product-card-img {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: initial;
+  height: 284px;
+  border-bottom: 1px solid #dddddd;
+  object-fit: cover;
+}

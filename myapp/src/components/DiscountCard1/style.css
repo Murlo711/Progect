@@ -1,0 +1,39 @@
+.discount-section-with-button {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  max-width: initial;
+  height: 284px;
+  padding: 16px;
+  background: url("/assets/image_df623bc5.png") 50% / cover no-repeat;
+  border-bottom: 1px solid #dddddd;
+}
+.discount-badge {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: flex-end;
+  padding: 0;
+  margin: 0;
+  font: 600 20px Montserrat, sans-serif;
+  color: white;
+  letter-spacing: 0.6px;
+  background: #339933;
+  border-radius: 6px;
+}
+.discount-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  min-width: 284px;
+  height: 58px;
+  margin-top: 160px;
+  font: 600 20px Montserrat, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: #282828;
+  border: none;
+  border-radius: 6px;
+}
